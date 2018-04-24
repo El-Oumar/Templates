@@ -4,6 +4,7 @@
   "parameters": {
     "resourcePrefix":{
         "type": "string",
+        "defaultValue": "AzuretemplateLabs",
         "metadata": {
             "description": "PrefixName"
         }
