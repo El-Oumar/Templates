@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
      "resourcePrefix": {
-         "value": "deploysh"
+         "value": "otherstoragesh"
      },
      "storageAccountType": {
          "value": "Standard_GRS"
