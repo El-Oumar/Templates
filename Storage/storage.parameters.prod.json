@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
      "resourcePrefix": {
-         "value": "anotherstorageprefix"
+         "value": "bashstorage"
      },
      "storageAccountType": {
          "value": "Standard_GRS"
