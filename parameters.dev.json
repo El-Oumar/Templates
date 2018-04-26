@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
      "resourcePrefix": {
-         "value": "bankaistorage"
+         "value": "nickelgreatstorage"
      },
      "storageAccountType": {
          "value": "Standard_GRS"
