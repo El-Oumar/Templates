@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
      "resourcePrefix": {
-         "value": "prodstoragejenkins"
+         "value": "mergestoragejenkins"
      },
      "storageAccountType": {
          "value": "Standard_GRS"
