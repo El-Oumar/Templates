@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
      "resourcePrefix": {
-         "value": "preprodstoragejenkins"
+         "value": "preprodstoragejenkins12"
      },
      "storageAccountType": {
          "value": "Standard_GRS"
